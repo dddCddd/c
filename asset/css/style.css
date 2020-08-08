@@ -16,6 +16,8 @@ body {
   line-height: 1.4;
 }
 
+/*FONT*/
+
 .container {
   max-width: 960px;
   margin: auto;
@@ -57,6 +59,8 @@ body {
 .showcase p {
   font-size: 20px;
 }
+
+/*BUTTON*/
 
 .btn {
   display: inline-block;
