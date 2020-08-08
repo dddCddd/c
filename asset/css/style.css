@@ -30,6 +30,12 @@ body {
     text-align: center;
 }
 
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+
 /*FONT AND BACKGROUND*/
 
 .showcase {
