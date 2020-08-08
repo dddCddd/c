@@ -30,13 +30,6 @@ body {
     text-align: center;
 }
 
-.center {
-    display: block;        
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
 /*FONT AND BACKGROUND*/
 
 .showcase {
@@ -49,7 +42,7 @@ body {
 
 .showcase:before {
   content: '';
-  background:#4e5558 no-repeat center center/cover;
+  background: url('https://images.pexels.com/photos/533923/pexels-photo-533923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center/cover;
   position: absolute;
   top: 0;
   left: 0;
@@ -96,6 +89,18 @@ body {
 
 .circle {
   border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  width: 30%;
+  height: 100%;
+}
+
+.center {   /* den här verkar inte funka */
+    display: block;        
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 /*FOOTER*/
