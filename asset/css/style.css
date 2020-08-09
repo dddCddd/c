@@ -36,6 +36,20 @@ body {
     height: auto;
 }
 
+/* PICTURE PORTFOLIO */
+
+.row { /*digital creating*/
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.column { 
+    display: block;        
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 /*FONT AND BACKGROUND*/
 
@@ -103,7 +117,7 @@ body {
   height: 100%;
 }
 
-.center {   /*STUFF MORE ON THIS ONE*/
+.center {   /*stuff more on this one*/
     display: block;        
     margin-left: auto;
     margin-right: auto;
@@ -225,3 +239,62 @@ body {
     width: 150px;
     height: 150px;
 }
+
+/* YOUTUBE VIDEOS  */
+
+.iframe-container{
+  position: relative;
+  width: 80%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* CONTACT FORM  */
+
+.contact-heading {
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    margin-top: 35px;
+    margin-bottom: 30px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+/*
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #444440;
+    background-color: #a47764;
+}
+
+button:hover [type="submit"] {
+    color: #fff;
+    background-color: #444440;
+}*/
+
+/* Responsive layout - makes a two column-layout instead of four columns 
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+Responsive layout - makes the two columns stack on top of each other instead of next to each other 
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+ }
+}*/
