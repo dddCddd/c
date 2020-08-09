@@ -103,7 +103,7 @@ body {
   height: 100%;
 }
 
-.center {   /* den här verkar inte funka */
+.center {   /*STUFF MORE ON THIS ONE*/
     display: block;        
     margin-left: auto;
     margin-right: auto;
@@ -139,3 +139,79 @@ body {
 .social-links li a i:hover {
     color: #444440;
 }
+
+/*SKILLS*/
+
+.box {
+    position: relative;
+    width: 300;
+    height: 400;
+    display: flex;
+    justify-content: flex;
+    align-items: center;
+    flex-direction: column;
+    background: ##4e5558;
+    box-shadow: 0 30px 60px rgba(0,0,0,.2);
+}
+
+.box .procentage {
+    position: relative;
+    width: 150px;
+    height: 150px;
+}
+
+.box .procentage svg {
+    position: relative;
+    width: 150px;
+    height: 150px;
+}
+
+.box .procentage svg circle {
+    width: 150px;
+    height: 150px;
+    fill: none;
+    stroke-width: 10;
+    stroke: #fff;
+    transform: translate(5px,5px);
+    stroke-dasharray: 440;
+    stroke-dashoffset: 440;
+    stroke-linecap: round;
+}
+
+.box .procentage svg circle:nth-child(1) {
+    stroke-dashoffset: 0;
+    stroke: gray;
+}
+
+.box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 85) / 100);
+    stroke: #fff;
+}
+
+.box .procentage .number {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.box .procentage .number h2 {
+    font-size: 48px;
+}
+
+.box .procentage .number h2 span {
+    font-size: 24px;
+}
+
+.box .text {
+    padding: 10px 0 0;
+    color: #fff;
+    font-weight: 200;
+    letter-spacing: 1px;
+}
+
