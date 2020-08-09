@@ -180,7 +180,7 @@ body {
 
 .box .procentage svg circle:nth-child(1) {
     stroke-dashoffset: 0;
-    stroke: gray;
+    stroke: #4e5558;
 }
 
 .box .procentage svg circle:nth-child(2) {
@@ -215,3 +215,13 @@ body {
     letter-spacing: 1px;
 }
 
+/*CARDS WEBSITES*/
+
+.card-body {
+    background-color: #444440;
+}
+
+.card-img-top {
+    width: 150px;
+    height: 150px;
+}
