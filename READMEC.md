@@ -1,7 +1,8 @@
 # **Personal Website - rickardzetterman.com**
+
 <img src="asset/image/responsive.png" alt="ops!">
-This is my digital shopping window for recruter and stalkers :-) 
-https://dddcddd.github.io/rickardzetterman/
+        This is my digital shopping window for recruter and stalkers :-) 
+        https://dddcddd.github.io/rickardzetterman/
 <img src="asset/image/loggaC.jpg" alt="ops!">
 
 ## **UX**
@@ -38,24 +39,24 @@ https://dddcddd.github.io/rickardzetterman/
 
 ## **Features**
 
-# *Index/Intro 
+##### Index/Intro 
 Here I only have the hamburger navbar and som welcome text and a button who directs to the about page.
 
-# *About 
+##### About 
 At the side I only have text about me and a picture of me in a circle. 
 
-# *CV and Skills 
+#### CV and Skills 
 At this page I started with some intro text and after that I added a button that download my CV.
 After that three diffret columns of skillset comes; Development, Economics and other stuff.
 
-# *Portfolio
+##### Portfolio
 Here I have a Bootsstrap cards to show of my websites that I have made. After that comes images that I made and you can push the image to make it bigger.
 After that it comes flyer of som event I have orginized and a sample video of one of our event.
 
-# *Contact 
+##### Contact 
 Here are a contact form that still not works.
 
-# *Footer 
+##### Footer 
 ICONS - Linked in profile, Download CV and Mail. 
 Under it, its my name and a copyright text and this year 2020
 
