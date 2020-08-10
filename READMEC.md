@@ -38,12 +38,38 @@ https://dddcddd.github.io/rickardzetterman/
 
 ## **Features**
 
+# *Index/Intro 
+Here I only have the hamburger navbar and som welcome text and a button who directs to the about page.
+
+# *About 
+At the side I only have text about me and a picture of me in a circle. 
+
+# *CV and Skills 
+At this page I started with some intro text and after that I added a button that download my CV.
+After that three diffret columns of skillset comes; Development, Economics and other stuff.
+
+# *Portfolio
+Here I have a Bootsstrap cards to show of my websites that I have made. After that comes images that I made and you can push the image to make it bigger.
+After that it comes flyer of som event I have orginized and a sample video of one of our event.
+
+# *Contact 
+Here are a contact form that still not works.
+
+# *Footer 
+ICONS - Linked in profile, Download CV and Mail. 
+Under it, its my name and a copyright text and this year 2020
 
 #### **Existing Features**
+* I got youtube video. 
+* Hamburger bar that moves.
+* Skillset rounded.
 
 
 #### **Features to Implement in the future**
-
+* Make sure the Email form works propably. 
+* Get the site better responsive. 
+* Update current skillcircles and more websites to add.
+* Maby add another youtube video of me, dont know if its to personal.
 
 ## **Technologies used**
 * HTML5  - https://en.wikipedia.org/wiki/HTML5
@@ -54,6 +80,9 @@ https://dddcddd.github.io/rickardzetterman/
 * Google Drive - https://sv.wikipedia.org/wiki/Google_Drive
 * Github - https://sv.wikipedia.org/wiki/Github
 * Gitpod - https://www.gitpod.io/
+* Fontawesome - https://en.wikipedia.org/wiki/Font_Awesome
+* Google Fonts - https://en.wikipedia.org/wiki/Google_Fonts
+* Canva - https://en.wikipedia.org/wiki/Canva
 
 
 ## **Testing**
