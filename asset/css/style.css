@@ -219,10 +219,86 @@ body {
     stroke: #4e5558;
 }
 
-.box .procentage svg circle:nth-child(2) {
-    stroke-dashoffset: calc(440 - (440 * 85) / 100);
+#skill-html .box .procentage svg circle:nth-child(2) { 
+    stroke-dashoffset: calc(440 - (440 * 60) / 100);
     stroke: #fff;
 }
+
+#skill-css .box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 40) / 100);
+    stroke: #fff;
+}
+
+#skill-JavaScript .box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 0) / 100);
+    stroke: #fff;
+}
+
+#JQuery .box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 0) / 100);
+    stroke: #fff;
+}
+
+#Python .box .procentage svg circle:nth-child(2) { 
+    stroke-dashoffset: calc(440 - (440 * 0) / 100);
+    stroke: #fff;
+}
+
+#Django .box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 0) / 100);
+    stroke: #fff;
+}
+
+#MySQL .box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 0) / 100);
+    stroke: #fff;
+}
+
+#Wordpress .box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 90) / 100);
+    stroke: #fff;
+}
+
+#Visma .box .procentage svg circle:nth-child(2) { 
+    stroke-dashoffset: calc(440 - (440 * 70) / 100);
+    stroke: #fff;
+}
+
+#Bokio .box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 60) / 100);
+    stroke: #fff;
+}
+
+#Finance .box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 90) / 100);
+    stroke: #fff;
+}
+
+#Budgeting .box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 80) / 100);
+    stroke: #fff;
+}
+
+#Drive .box .procentage svg circle:nth-child(2) { 
+    stroke-dashoffset: calc(440 - (440 * 80) / 100);
+    stroke: #fff;
+}
+
+#Photoshop .box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 20) / 100);
+    stroke: #fff;
+}
+
+#Communication .box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 80) / 100);
+    stroke: #fff;
+}
+
+#Marketing .box .procentage svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 70) / 100);
+    stroke: #fff;
+}
+
 
 .box .procentage .number {
     position: absolute;
