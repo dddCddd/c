@@ -1,39 +1,158 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# **Personal Website - rickardzetterman.com**
 
-Welcome dddCddd,
+<img src="asset/image/responsive.png" alt="ops!">
+        This is my digital shopping window for recruter and stalkers :-) 
+        https://dddcddd.github.io/rickardzetterman/
+<img src="asset/image/loggaC.jpg" alt="ops!">
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+## **UX**
 
-## Gitpod Reminders
+#### *USER STORYS
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+*   As a recruter 
+    I want to find information about work experience and skills 
+    So I can compare with other ppl 
 
-`python3 -m http.server`
+*   As a recruter 
+    I want to find contact details 
+    So I can contact the person if i want to
 
-A blue button should appear to click: *Make Public*,
+*   As a recruter 
+    I want see the actual work and personal information about a person
+    So I can get a clear picture about the person
 
-Another blue button should appear to click: *Open Browser*.
+#### *DESIGNE 
+    I have tried to have a clean and minimalistisk designe throu the website. 
+    I also tried to have a match CV but I need to make that over agin.
+##### *Colors 
+            Background color - #444440
+            Footer and buttons - #4e5558
+            Text and Icons - #ffffff
+##### *Fonts   
+            I used Oswald all throu the website, I think it's clean.
+#### **Wireframe Mockups**
+* Figma Desktop - https://www.figma.com/file/KxUG7SCFcFrPGcvxDUw5ch/rickardzetterman.com?node-id=0%3A1
+* Figma Mobile - https://www.figma.com/file/x0T8XoiwXqSrOWT2EDLsx9/Untitled
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## **Features**
 
-A blue button should appear to click: *Make Public*,
+#### Index/Intro 
+Here I only have the hamburger navbar and som welcome text and a button who directs to the about page.
 
-Another blue button should appear to click: *Open Browser*.
+#### About 
+At the side I only have text about me and a picture of me in a circle. 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+#### CV and Skills 
+At this page I started with some intro text and after that I added a button that download my CV.
+After that three diffret columns of skillset comes; Development, Economics and other stuff.
 
-## Updates Since The Instructional Video
+#### Portfolio
+Here I have a Bootsstrap cards to show of my websites that I have made. After that comes images that I made and you can push the image to make it bigger.
+After that it comes flyer of som event I have orginized and a sample video of one of our event.
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+#### Contact 
+Here are a contact form that still not works.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+#### Footer 
+ICONS - Linked in profile, Download CV and Mail. 
+Under it, its my name and a copyright text and this year 2020
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+### **Existing Features**
+* I got youtube video. 
+* Hamburger bar that moves.
+* Skillset rounded.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### **Features to Implement in the future**
+* Make sure the Email form works propably. 
+* Get the site better responsive. 
+* Update current skillcircles and more websites to add.
+* Maby add another youtube video of me, dont know if its to personal.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## **Technologies used**
+* HTML5  - https://en.wikipedia.org/wiki/HTML5
+* CSS3  - https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3
+* SVG  - https://www.w3schools.com/html/html5_svg.asp
+* Bootsstrap - https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)
+* Figma - https://en.wikipedia.org/wiki/Figma_(software)
+* Google Drive - https://sv.wikipedia.org/wiki/Google_Drive
+* Github - https://sv.wikipedia.org/wiki/Github
+* Gitpod - https://www.gitpod.io/
+* Fontawesome - https://en.wikipedia.org/wiki/Font_Awesome
+* Google Fonts - https://en.wikipedia.org/wiki/Google_Fonts
+* Canva - https://en.wikipedia.org/wiki/Canva
 
---------
+## **Testing**
 
-Happy coding!
+* HTML Validator - https://validator.w3.org/nu/?useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2F
+                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Findex.html
+                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fabout.html
+                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fcv.html
+                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fportfolio.html
+                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fcontact.html
+
+    <img src="asset/image/rz.png" alt="ops!">
+    <img src="asset/image/rz_about.png" alt="ops!">
+    <img src="asset/image/rz_contact.png" alt="ops!">
+    <img src="asset/image/rz_cv.png" alt="ops!">
+    <img src="asset/image/rz_index.png" alt="ops!">
+    <img src="asset/image/rz_portfolio.png" alt="ops!">
+
+* CSS Validator - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
+                   <img src="asset/image/jigsaw.png" alt="ops!">
+* I don't think this JIGSAW validation are correct, look at the link below!
+https://stackoverflow.com/questions/52930543/8-digit-hex-is-not-a-background-color-value/52931314#52931314
+
+* Test at https://www.responsivedesignchecker.com/ and on Google inspektor 
+        <img src="asset/image/Test.png" alt="ops!">
+
+
+## **Deployment**
+This project was written and developed using GitPod and pushed to GitHub by using GitPod's command line functions.
+
+How to deploy this page from https://github.com/dddCddd/rickardzetterman using GitHub Pages:
+
+* 1. Log into GitHub.
+* 2. From the list of repositories on the screen, select AJGreaves/portrait-artist.
+* 3. From the menu items near the top of the page, select Settings.
+* 4. Scroll down to the GitHub Pages section.
+* 5. Under Source click the drop-down menu labelled None and select Master Branch
+* 6. On selecting Master Branch the page is automatically refreshed, the website is now deployed.
+* 7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
+
+## Running the project locally
+
+### To clone this project from GitHub:
+
+You can paste the repository link directly into any editor you use with the command 'git clone'. For example:
+
+git clone https://github.com/dddCddd/rickardzetterman
+
+To remove the GitHub repository type 'git remote rm origin' into the terminal.
+
+click here - https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository to read more on troubleshooting and cloning GitHub repositories.
+
+
+### **Running the project locally**
+
+
+## **Credits**
+
+### **Content**
+* I wrote all content and for image an youtube video look under Media 
+
+### **Code**
+* Hamburger menu - https://www.youtube.com/watch?v=DZg6UfS5zYg
+* Skill circels - https://www.youtube.com/watch?v=t7eHSAXW718
+* Contact form comes from a lecture at Code Institute.
+* Card for showning my website. I used Bootsstrap template. I also used rows from Boostrap and a few other things. 
+
+### **Media**
+* Youtube video are made by Pocketbeat at Stockholm Hipie Markets gig.
+* CV templates comes from Canva.
+* Image of my friends comes from there photograf and a picture from https://pixabay.com/
+* Stockholm Hippie Market and Eldanse logos are made by Ylva Ek
+* SPDIF flyers are made by Mikael Eisen at https://www.bakkeriet.com/
+* Evigheten logo i think are made by Jonas Karlsson a member at UBV. 
+
+### **Acknowledgements**
+
