@@ -1,4 +1,5 @@
 # **Personal Website - rickardzetterman.com**
+<img src="asset/image/responsive.png" alt="ops!">
 This is my digital shopping window for recruter and stalkers :-) 
 https://dddcddd.github.io/rickardzetterman/
 <img src="asset/image/loggaC.jpg" alt="ops!">
