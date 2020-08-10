@@ -4,10 +4,19 @@
 
 ## **UX**
 
+**USER STORYS
+
+**DESIGNE 
+
+*Colors
+
+*Fonts 
 
 
 **Wireframe Mockups**
-
+*#WIREFRAMES 
+*Figam Desktop
+*Figma Mobile 
 
 
 ## **Features**
@@ -34,6 +43,10 @@
 
 
 ## **Testing**
+
+*HTML Validator + PRINSCREEN RESULT 
+
+*CSS Validator + PRINSCREEN RESULT 
 
 
 ## **Deployment**
