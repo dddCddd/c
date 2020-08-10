@@ -26,7 +26,7 @@
   width: 60px;
   height: 60px;
   padding: 1rem;
-  background: var(--primary-color);
+  background: #4e5558;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -86,7 +86,7 @@
 
 .menu-wrap .toggler:checked ~ .menu > div {
   transform: scale(1);
-  transition-duration: var(--menu-speed);
+  transition-duration: 0.75s;
 }
 
 .menu-wrap .toggler:checked ~ .menu > div > div {
@@ -108,7 +108,7 @@
 }
 
 .menu-wrap .menu > div {
-  background: var(--overlay-color);
+  background: #4e5558;
   border-radius: 50%;
   width: 200vw;
   height: 200vw;
