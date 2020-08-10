@@ -4,7 +4,19 @@
 
 ## **UX**
 
-**USER STORYS
+#### *USER STORYS
+
+*   As a recruter 
+    I want to find information about work experience and skills 
+    So I can compare with other ppl 
+
+*   As a recruter 
+    I want to find contact details 
+    So I can contact the person if i want to
+
+*   As a recruter 
+    I want see the actual work and personal information about a person
+    So I can get a clear picture about the person
 
 **DESIGNE 
 
@@ -57,7 +69,7 @@ To clone this project from GitHub:
 
 You can paste the repository link directly into any editor you use with the command 'git clone'. For example:
 
-git clone https://github.com/dddCddd/c
+git clone https://dddcddd.github.io/rickardzetterman/
 
 To remove the GitHub repository type 'git remote rm origin' into the terminal.
 
@@ -67,10 +79,21 @@ To remove the GitHub repository type 'git remote rm origin' into the terminal.
 ## **Credits**
 
 ### **Content**
+* I wrote all content and for image an youtube video look under Media 
 
 ### **Code**
+* Hamburger menu - https://www.youtube.com/watch?v=DZg6UfS5zYg
+* Skill circels - https://www.youtube.com/watch?v=t7eHSAXW718
+* Contact form comes from a lecture at Code Institute.
+* Card for showning my website. I used Bootsstrap template. I also used rows from Boostrap and a few other things. 
 
 ### **Media**
+* Youtube video are made by Pocketbeat at Stockholm Hipie Markets gig.
+* CV templates comes from Canva.
+* Image of my friends comes from there photograf and a picture from https://pixabay.com/
+* Stockholm Hippie Market and Eldanse logos are made by Ylva Ek
+* SPDIF flyers are made by Mikael Eisen at https://www.bakkeriet.com/
+* Evigheten logo i think are made by Jonas Karlsson a member at UBV. 
 
 ### **Acknowledgements**
 
