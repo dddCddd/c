@@ -1,6 +1,7 @@
 # **Personal Website - rickardzetterman.com**
-
-
+This is my digital shopping window for recruter and stalkers :-) 
+https://dddcddd.github.io/rickardzetterman/
+<img src="asset/image/loggaC.jpg" alt="ops!">
 
 ## **UX**
 
@@ -47,10 +48,18 @@
 
 #### **Existing Features**
 
+
 #### **Features to Implement in the future**
 
 
 ## **Technologies used**
+* HTML5  
+* CSS3 
+* SVG 
+* Bootsstrap
+* Figma
+* Google Drive 
+* Github and Gitpod 
 
 
 ## **Testing**
@@ -62,12 +71,12 @@
                     https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fportfolio.html
                     https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fcontact.html
 
-                <img src="asset/image/rz.png" alt="ops!">
-                <img src="asset/image/rz_about.png" alt="ops!">
-                <img src="asset/image/rz_contact.png" alt="ops!">
-                <img src="asset/image/rz_cv.png" alt="ops!">
-                <img src="asset/image/rz_index.png" alt="ops!">
-                <img src="asset/image/rz_portfolio.png" alt="ops!">
+    <img src="asset/image/rz.png" alt="ops!">
+    <img src="asset/image/rz_about.png" alt="ops!">
+    <img src="asset/image/rz_contact.png" alt="ops!">
+    <img src="asset/image/rz_cv.png" alt="ops!">
+    <img src="asset/image/rz_index.png" alt="ops!">
+    <img src="asset/image/rz_portfolio.png" alt="ops!">
 
 *CSS Validator - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
                 -    <img src="asset/image/jigsaw.png" alt="ops!">
@@ -77,16 +86,6 @@
 
 
 ### **Running the project locally**
-
-To clone this project from GitHub:
-
-You can paste the repository link directly into any editor you use with the command 'git clone'. For example:
-
-git clone https://dddcddd.github.io/rickardzetterman/
-
-To remove the GitHub repository type 'git remote rm origin' into the terminal.
-
-[click here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) to read more on troubleshooting and cloning GitHub repositories.
 
 
 ## **Credits**
