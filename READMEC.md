@@ -19,34 +19,22 @@ https://dddcddd.github.io/rickardzetterman/
     I want see the actual work and personal information about a person
     So I can get a clear picture about the person
 
-* DESIGNE 
+#### *DESIGNE 
     I have tried to have a clean and minimalistisk designe throu the website. 
     I also tried to have a match CV but I need to make that over agin.
-* Colors - Background color - #444440
+##### *Colors - Background color - #444440
             Footer and buttons - #4e5558
             Text and Icons - #ffffff
-* Fonts  - I used Oswald all throu the website, I think it's clean.
+##### *Fonts  - I used Oswald all throu the website, I think it's clean.
 
 
-**Wireframe Mockups**
+#### **Wireframe Mockups**
 * Figam Desktop - https://www.figma.com/file/KxUG7SCFcFrPGcvxDUw5ch/rickardzetterman.com?node-id=0%3A1
 * Figma Mobile - https://www.figma.com/file/x0T8XoiwXqSrOWT2EDLsx9/Untitled
 
 
 ## **Features**
 
-
-#### **Home**
-
-#### **About**
-
-#### **CV and Skills**
-
-#### **Portfolio**
-
-#### **Contact**
-
-#### **Intro**
 
 #### **Existing Features**
 
@@ -55,13 +43,14 @@ https://dddcddd.github.io/rickardzetterman/
 
 
 ## **Technologies used**
-* HTML5  
-* CSS3 
-* SVG 
-* Bootsstrap
-* Figma
-* Google Drive 
-* Github and Gitpod 
+* HTML5  - https://en.wikipedia.org/wiki/HTML5
+* CSS3  - https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3
+* SVG  - https://www.w3schools.com/html/html5_svg.asp
+* Bootsstrap - https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)
+* Figma - https://en.wikipedia.org/wiki/Figma_(software)
+* Google Drive - https://sv.wikipedia.org/wiki/Google_Drive
+* Github - https://sv.wikipedia.org/wiki/Github
+* Gitpod - https://www.gitpod.io/
 
 
 ## **Testing**
@@ -82,7 +71,7 @@ https://dddcddd.github.io/rickardzetterman/
 
 * CSS Validator - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
                    <img src="asset/image/jigsaw.png" alt="ops!">
-* I don't think this validation are correct, look at the link below!
+* I don't think this JIGSAW validation are correct, look at the link below!
 https://stackoverflow.com/questions/52930543/8-digit-hex-is-not-a-background-color-value/52931314#52931314
 
 
