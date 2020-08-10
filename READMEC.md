@@ -55,9 +55,22 @@
 
 ## **Testing**
 
-*HTML Validator + PRINSCREEN RESULT 
+* HTML Validator - https://validator.w3.org/nu/?useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2F
+                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Findex.html
+                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fabout.html
+                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fcv.html
+                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fportfolio.html
+                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fcontact.html
 
-*CSS Validator + PRINSCREEN RESULT 
+                <img src="asset/image/rz.png" alt="ops!">
+                <img src="asset/image/rz_about.png" alt="ops!">
+                <img src="asset/image/rz_contact.png" alt="ops!">
+                <img src="asset/image/rz_cv.png" alt="ops!">
+                <img src="asset/image/rz_index.png" alt="ops!">
+                <img src="asset/image/rz_portfolio.png" alt="ops!">
+
+*CSS Validator - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
+                -    <img src="asset/image/jigsaw.png" alt="ops!">
 
 
 ## **Deployment**
