@@ -22,10 +22,12 @@ https://dddcddd.github.io/rickardzetterman/
 #### *DESIGNE 
     I have tried to have a clean and minimalistisk designe throu the website. 
     I also tried to have a match CV but I need to make that over agin.
-##### *Colors - Background color - #444440
+##### *Colors 
+            Background color - #444440
             Footer and buttons - #4e5558
             Text and Icons - #ffffff
-##### *Fonts  - I used Oswald all throu the website, I think it's clean.
+##### *Fonts   
+            I used Oswald all throu the website, I think it's clean.
 
 
 #### **Wireframe Mockups**
