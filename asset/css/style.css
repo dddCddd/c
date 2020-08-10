@@ -299,7 +299,6 @@ body {
     stroke: #fff;
 }
 
-
 .box .procentage .number {
     position: absolute;
     top: 0;
@@ -392,7 +391,8 @@ button:hover [type="submit"] {
     max-width: 50%;
  } 
   .list-inlines {
-    width: 100%;
+    flex: 50%;
+    max-width: 50%;
   }
 }
 
@@ -403,6 +403,7 @@ button:hover [type="submit"] {
     max-width: 100%;
  } 
 .list-inlines {
-    width: 100%;
+    flex: 100%;
+    max-width: 100%;
   }
 }
