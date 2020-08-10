@@ -51,6 +51,11 @@ body {
     width: 50%;
 }
 
+.row .column .image_event img {
+    width: 200px;
+    height: 90px;
+}
+
 /*FONT AND BACKGROUND*/
 
 .showcase {
@@ -283,7 +288,7 @@ button:hover [type="submit"] {
     background-color: #444440;
 }*/
 
-/* Responsive layout - makes a two column-layout instead of four columns 
+Responsive layout - makes a two column-layout instead of four columns 
 @media screen and (max-width: 800px) {
   .column {
     flex: 50%;
@@ -297,4 +302,4 @@ Responsive layout - makes the two columns stack on top of each other instead of 
     flex: 100%;
     max-width: 100%;
  }
-}*/
+}
