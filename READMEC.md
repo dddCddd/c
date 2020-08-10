@@ -14,9 +14,8 @@
 
 
 **Wireframe Mockups**
-*#WIREFRAMES 
-*Figam Desktop
-*Figma Mobile 
+* Figam Desktop - https://www.figma.com/file/KxUG7SCFcFrPGcvxDUw5ch/rickardzetterman.com?node-id=0%3A1
+* Figma Mobile - https://www.figma.com/file/x0T8XoiwXqSrOWT2EDLsx9/Untitled
 
 
 ## **Features**
