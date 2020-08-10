@@ -19,11 +19,13 @@ https://dddcddd.github.io/rickardzetterman/
     I want see the actual work and personal information about a person
     So I can get a clear picture about the person
 
-**DESIGNE 
-
-*Colors
-
-*Fonts 
+* DESIGNE 
+    I have tried to have a clean and minimalistisk designe throu the website. 
+    I also tried to have a match CV but I need to make that over agin.
+* Colors - Background color - #444440
+            Footer and buttons - #4e5558
+            Text and Icons - #ffffff
+* Fonts  - I used Oswald all throu the website, I think it's clean.
 
 
 **Wireframe Mockups**
@@ -78,8 +80,10 @@ https://dddcddd.github.io/rickardzetterman/
     <img src="asset/image/rz_index.png" alt="ops!">
     <img src="asset/image/rz_portfolio.png" alt="ops!">
 
-*CSS Validator - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
-                -    <img src="asset/image/jigsaw.png" alt="ops!">
+* CSS Validator - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
+                   <img src="asset/image/jigsaw.png" alt="ops!">
+* I don't think this validation are correct, look at the link below!
+https://stackoverflow.com/questions/52930543/8-digit-hex-is-not-a-background-color-value/52931314#52931314
 
 
 ## **Deployment**
