@@ -4,7 +4,7 @@
         This is my digital shopping window for recruter and stalkers :-)
         Where user can find information and been able to contact me if they have any question or want to colabiration.
         This makes the phase of contacting me easy for the user or recruter or who it whould be. 
-        https://dddcddd.github.io/rickardzetterman/
+        [here are the website on github] (https://dddcddd.github.io/rickardzetterman/)
 
 ## **UX**
 
