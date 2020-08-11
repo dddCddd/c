@@ -82,21 +82,7 @@ Under it, its my name and a copyright text and this year 2020
 
 ## **Testing**
 
-* HTML Validator
-
-    <img src="asset/image/rz.png" alt="ops!">
-    <img src="asset/image/rz_about.png" alt="ops!">
-    <img src="asset/image/rz_contact.png" alt="ops!">
-    <img src="asset/image/rz_cv.png" alt="ops!">
-    <img src="asset/image/rz_index.png" alt="ops!">
-    <img src="asset/image/rz_portfolio.png" alt="ops!">
-
-* CSS Validator
-                   <img src="asset/image/jigsaw.png" alt="ops!">
-* I don't think this JIGSAW validation are correct, look at the [link](https://stackoverflow.com/questions/52930543/8-digit-hex-is-not-a-background-color-value/52931314#52931314)
-
-* Test at [Responsive Designe Checker](https://www.responsivedesignchecker.com/) and on Google inspector...
-        <img src="asset/image/Test.png" alt="ops!">
+The test can been watch [here](https://github.com/dddCddd/rickardzetterman/blob/master/Testing.md)
 
 
 ## **Deployment**

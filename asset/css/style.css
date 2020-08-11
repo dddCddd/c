@@ -41,6 +41,12 @@ body {
     margin-right: 10%;
 }
 
+img {
+  /*border-radius: 4px;*/
+  padding: 5px;
+  width: 150px;
+}
+
 /* PICTURE PORTFOLIO */
 
 .row { /*digital creating*/
