@@ -28,7 +28,6 @@ body {
 
 .responsive {
     width: 100%;
-    max-width: 1500px;
     height: auto;
 }
 
@@ -409,14 +408,6 @@ button:hover [type="submit"] {
 }
 
 @media screen and (min-width: 1920px) {
-.column {
-    flex: 100%;
-    max-width: 100%;
- } 
-.list-inlines {
-    flex: 100%;
-    max-width: 100%;
-  }
 .responsive {
     max-width: 100%
 }
