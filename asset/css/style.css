@@ -418,6 +418,6 @@ button:hover [type="submit"] {
     max-width: 100%;
   }
 .responsive {
-    width: 100%
+    max-width: 100%
 }
 }
