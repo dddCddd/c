@@ -4,7 +4,8 @@
         This is my digital shopping window for recruter and stalkers :-)
         Where user can find information and been able to contact me if they have any question or want to colabiration.
         This makes the phase of contacting me easy for the user or recruter or who it whould be. 
-        [here are the website on github] (https://dddcddd.github.io/rickardzetterman/)
+        
+        Here are the [website](https://dddcddd.github.io/rickardzetterman/index.html) on github!
 
 ## **UX**
 
@@ -32,8 +33,8 @@
 ##### *Fonts   
             I used Oswald all throu the website, I think it's clean.
 #### **Wireframe Mockups**
-* Figma Desktop - https://www.figma.com/file/KxUG7SCFcFrPGcvxDUw5ch/rickardzetterman.com?node-id=0%3A1
-* Figma Mobile - https://www.figma.com/file/x0T8XoiwXqSrOWT2EDLsx9/Untitled
+* [Figma Desktop](https://www.figma.com/file/KxUG7SCFcFrPGcvxDUw5ch/rickardzetterman.com?node-id=0%3A1)
+* [Figma Mobile](https://www.figma.com/file/x0T8XoiwXqSrOWT2EDLsx9/Untitled)
 
 ## **Features**
 
@@ -67,17 +68,17 @@ Under it, its my name and a copyright text and this year 2020
 * Maby add another youtube video of me, dont know if its to personal.
 
 ## **Technologies used**
-* HTML5  - https://en.wikipedia.org/wiki/HTML5
-* CSS3  - https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3
-* SVG  - https://www.w3schools.com/html/html5_svg.asp
-* Bootsstrap - https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)
-* Figma - https://en.wikipedia.org/wiki/Figma_(software)
-* Google Drive - https://sv.wikipedia.org/wiki/Google_Drive
-* Github - https://sv.wikipedia.org/wiki/Github
-* Gitpod - https://www.gitpod.io/
-* Fontawesome - https://en.wikipedia.org/wiki/Font_Awesome
-* Google Fonts - https://en.wikipedia.org/wiki/Google_Fonts
-* Canva - https://en.wikipedia.org/wiki/Canva
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) - the structure on my website. 
+* [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3) - Styling on my website. 
+* [SVG](https://www.w3schools.com/html/html5_svg.asp) - Skills circle on my site. 
+* [Bootsstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)) - The framework and easy implnting stuff on the site 
+* [Figma](https://en.wikipedia.org/wiki/Figma_(software)) - Mockups and wireframes
+* [GoogleDrive](https://sv.wikipedia.org/wiki/Google_Drive) - store and write content and other information in it.
+* [Github](https://sv.wikipedia.org/wiki/Github) - Provides the service and community to store websites.
+* [Gitpod](https://www.gitpod.io/) - The terminal I use for this project.
+* [Fontawesome](https://en.wikipedia.org/wiki/Font_Awesome) - Provides icon to my website 
+* [GoogleFonts](https://en.wikipedia.org/wiki/Google_Fonts) - Provides Font to my site.
+* [Canva](https://en.wikipedia.org/wiki/Canva) - Canva have templates on CV that I used.
 
 ## **Testing**
 
@@ -90,12 +91,11 @@ Under it, its my name and a copyright text and this year 2020
     <img src="asset/image/rz_index.png" alt="ops!">
     <img src="asset/image/rz_portfolio.png" alt="ops!">
 
-* CSS Validator - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
+* CSS Validator
                    <img src="asset/image/jigsaw.png" alt="ops!">
-* I don't think this JIGSAW validation are correct, look at the link below!
-https://stackoverflow.com/questions/52930543/8-digit-hex-is-not-a-background-color-value/52931314#52931314
+* I don't think this JIGSAW validation are correct, look at the [link](https://stackoverflow.com/questions/52930543/8-digit-hex-is-not-a-background-color-value/52931314#52931314)
 
-* Test at https://www.responsivedesignchecker.com/ and on Google inspektor 
+* Test at [Responsive Designe Checker](https://www.responsivedesignchecker.com/) and on Google inspector...
         <img src="asset/image/Test.png" alt="ops!">
 
 
@@ -103,10 +103,10 @@ https://stackoverflow.com/questions/52930543/8-digit-hex-is-not-a-background-col
 ### **Running the project locally**
 This project was written and developed using GitPod and pushed to GitHub by using GitPod's command line functions.
 
-How to deploy this page from https://github.com/dddCddd/rickardzetterman using GitHub Pages:
+How to deploy [this](https://github.com/dddCddd/rickardzetterman) page from using GitHub Pages:
 
  1. Log into GitHub.
- 2. From the list of repositories on the screen, select AJGreaves/portrait-artist.
+ 2. From the list of repositories on the screen, choose rickardzetterman.
  3. From the menu items near the top of the page, select Settings.
  4. Scroll down to the GitHub Pages section.
  5. Under Source click the drop-down menu labelled None and select Master Branch
@@ -117,11 +117,11 @@ How to deploy this page from https://github.com/dddCddd/rickardzetterman using G
 
 You can paste the repository link directly into any editor you use with the command 'git clone'. For example:
 
-git clone it (here) (https://github.com/dddCddd/rickardzetterman.git)
+git clone it [here](https://github.com/dddCddd/rickardzetterman.git)
 
 To remove the GitHub repository type 'git remote rm origin' into the terminal.
 
-click here - https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository to read more on troubleshooting and cloning GitHub repositories.
+click [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) to read more on troubleshooting and cloning GitHub repositories.
 
 ## **Credits**
 
@@ -129,19 +129,22 @@ click here - https://docs.github.com/en/github/creating-cloning-and-archiving-re
 * I wrote all content and for image an youtube video look under Media 
 
 ### **Code**
-* Hamburger menu - https://www.youtube.com/watch?v=DZg6UfS5zYg
-* Skill circels - https://www.youtube.com/watch?v=t7eHSAXW718
-* Youtube video - https://www.youtube.com/watch?v=9YffrCViTVk
-* Contact form comes from a lecture at Code Institute.
-* Card for showning my website. I used Bootsstrap template. I also used rows from Boostrap and a few other things. 
+* [Hamburger menu](https://www.youtube.com/watch?v=DZg6UfS5zYg)
+* [Skill circels](https://www.youtube.com/watch?v=t7eHSAXW718)
+* [Youtube video](https://www.youtube.com/watch?v=9YffrCViTVk)
+* Contact form comes from a lecture at [Code Institute](https://codeinstitute.net/).
+* Card for showning my website. I used [Bootsstrap](https://getbootstrap.com/) template. I also used rows from Boostrap and a few other things. 
 
 ### **Media**
-* Youtube video are made by Pocketbeat at Stockholm Hipie Markets gig.
-* CV templates comes from Canva.
-* Image of my friends comes from there photograf and a picture from https://pixabay.com/
+* Youtube video are made by [Pocketbeat](https://www.pocketbeat.com/) at [Stockholm Hippie Markets](http://2019.stockholmhippiemarket.se/) gig.
+* CV templates comes from [Canva](https://www.canva.com/)
+* Image of my friends comes from there photograf and a picture from a free to use [website](https://pixabay.com/)
 * Stockholm Hippie Market and Eldanse logos are made by Ylva Ek
-* SPDIF flyers are made by Mikael Eisen at https://www.bakkeriet.com/
+* SPDIF flyers are made by Mikael Eisen at his [website](https://www.bakkeriet.com/)
 * Evigheten logo i think are made by Jonas Karlsson a member at UBV. 
 
 ### **Acknowledgements**
-
+Precios Ijege and Xavier from Code Intsitute Special to Precios who are my mentor and giving me good feedback and helped me on my work. 
+Xavier for helping me with the skills circles that I hade issue with figuring out how to procced. 
+My friends Jonas Karlsson and Martin Gustavsson for there support and help and I'm alway welcome there to ask question about coding.
+Also all tutorial made of people so I learn to code and create this website.
