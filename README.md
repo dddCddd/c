@@ -37,6 +37,8 @@
 
 ## **Features**
 
+### **Existing Features**
+
 #### Index/Intro 
 Here I only have the hamburger navbar and som welcome text and a button who directs to the about page.
 
@@ -57,11 +59,6 @@ Here are a contact form that still not works.
 #### Footer 
 ICONS - Linked in profile, Download CV and Mail. 
 Under it, its my name and a copyright text and this year 2020
-
-### **Existing Features**
-* I got youtube video. 
-* Hamburger bar that moves.
-* Skillset rounded.
 
 ### **Features to Implement in the future**
 * Make sure the Email form works propably. 
@@ -84,12 +81,7 @@ Under it, its my name and a copyright text and this year 2020
 
 ## **Testing**
 
-* HTML Validator - https://validator.w3.org/nu/?useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2F
-                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Findex.html
-                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fabout.html
-                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fcv.html
-                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fportfolio.html
-                    https://validator.w3.org/nu/?doc=https%3A%2F%2Fdddcddd.github.io%2Frickardzetterman%2Fcontact.html
+* HTML Validator
 
     <img src="asset/image/rz.png" alt="ops!">
     <img src="asset/image/rz_about.png" alt="ops!">
@@ -113,19 +105,19 @@ This project was written and developed using GitPod and pushed to GitHub by usin
 
 How to deploy this page from https://github.com/dddCddd/rickardzetterman using GitHub Pages:
 
-* 1. Log into GitHub.
-* 2. From the list of repositories on the screen, select AJGreaves/portrait-artist.
-* 3. From the menu items near the top of the page, select Settings.
-* 4. Scroll down to the GitHub Pages section.
-* 5. Under Source click the drop-down menu labelled None and select Master Branch
-* 6. On selecting Master Branch the page is automatically refreshed, the website is now deployed.
-* 7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
+ 1. Log into GitHub.
+ 2. From the list of repositories on the screen, select AJGreaves/portrait-artist.
+ 3. From the menu items near the top of the page, select Settings.
+ 4. Scroll down to the GitHub Pages section.
+ 5. Under Source click the drop-down menu labelled None and select Master Branch
+ 6. On selecting Master Branch the page is automatically refreshed, the website is now deployed.
+ 7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
 
 ### To clone this project from GitHub:
 
 You can paste the repository link directly into any editor you use with the command 'git clone'. For example:
 
-git clone https://github.com/dddCddd/rickardzetterman
+git clone it (here) (https://github.com/dddCddd/rickardzetterman.git)
 
 To remove the GitHub repository type 'git remote rm origin' into the terminal.
 
