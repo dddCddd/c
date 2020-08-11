@@ -28,6 +28,7 @@ body {
 
 .responsive {
     width: 100%;
+    max-width: 100%;
     height: auto;
 }
 
@@ -370,18 +371,6 @@ body {
     margin: 0 auto;
     max-width: 70%;
 }
-/*
-button[type="submit"] {
-    margin-top: 15px;
-    margin-bottom: 20px;
-    color: #444440;
-    background-color: #a47764;
-}
-
-button:hover [type="submit"] {
-    color: #fff;
-    background-color: #444440;
-}*/
 
 /*RESPONSIVE*/
 
@@ -409,6 +398,5 @@ button:hover [type="submit"] {
 
 @media screen and (min-width: 1920px) {
 .responsive {
-    max-width: 100%
 }
 }
