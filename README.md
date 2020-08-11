@@ -107,6 +107,7 @@ https://stackoverflow.com/questions/52930543/8-digit-hex-is-not-a-background-col
 
 
 ## **Deployment**
+### **Running the project locally**
 This project was written and developed using GitPod and pushed to GitHub by using GitPod's command line functions.
 
 How to deploy this page from https://github.com/dddCddd/rickardzetterman using GitHub Pages:
@@ -119,8 +120,6 @@ How to deploy this page from https://github.com/dddCddd/rickardzetterman using G
 * 6. On selecting Master Branch the page is automatically refreshed, the website is now deployed.
 * 7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
 
-## Running the project locally
-
 ### To clone this project from GitHub:
 
 You can paste the repository link directly into any editor you use with the command 'git clone'. For example:
@@ -130,10 +129,6 @@ git clone https://github.com/dddCddd/rickardzetterman
 To remove the GitHub repository type 'git remote rm origin' into the terminal.
 
 click here - https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository to read more on troubleshooting and cloning GitHub repositories.
-
-
-### **Running the project locally**
-
 
 ## **Credits**
 
