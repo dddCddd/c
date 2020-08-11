@@ -16,10 +16,14 @@ body {
 /*STUFF*/
 
 .container {
-  max-width: 960px;
+  max-width: 1200px;
   margin: auto;
   overflow: hidden;
   padding: 0 3rem;
+}
+
+.container-fluid {
+    width: 100%;
 }
     
 .col-sm1 {
@@ -37,17 +41,17 @@ body {
 .row { /*digital creating*/
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
+  padding: 5px 4px;
 }
 
 .column { 
     display: block;        
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 100%;
 }
 
-.row .column .image_event img {
+/*.row .column .image_event img {
     width: 200px;
     height: 90px;
     padding: 5px;
@@ -63,7 +67,7 @@ body {
     width: 200px;
     height: 300px;
     padding: 5px;
-}
+}*/
 
 .image_create {
     text-align: center;
@@ -139,12 +143,12 @@ body {
   height: 100%;
 }
 
-.center {   /*stuff more on this one*/
+/*.center {   
     display: block;        
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-}
+}*/
 
 /*FOOTER*/
 
@@ -180,14 +184,15 @@ body {
 
 .box {
     position: relative;
-    width: 150px;
+    width: 200px;
     height: 250px;
     display: flex;
     justify-content: flex;
     align-items: center;
     flex-direction: column;
-    background: #4e5558;
+    background:#444440;
     box-shadow: 0 30px 60px rgba(0,0,0,.2);
+    padding: 5px 0 0 ;
 }
 
 .box .procentage {
@@ -329,7 +334,7 @@ body {
 /*CARDS WEBSITES*/
 
 .col-sm {
-    padding: 5px;
+    padding: 5px 5px 5px;
 }
 
 .card-body {
