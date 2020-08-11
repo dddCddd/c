@@ -408,7 +408,7 @@ button:hover [type="submit"] {
   }
 }
 
-@media screen and (max-width: 1920px) {
+@media screen and (min-width: 1920px) {
 .column {
     flex: 100%;
     max-width: 100%;
