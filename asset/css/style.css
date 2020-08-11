@@ -407,3 +407,17 @@ button:hover [type="submit"] {
     max-width: 100%;
   }
 }
+
+@media screen and (max-width: 1200px) {
+.column {
+    flex: 100%;
+    max-width: 100%;
+ } 
+.list-inlines {
+    flex: 100%;
+    max-width: 100%;
+  }
+.responsive {
+    width: 100%
+}
+}
