@@ -186,7 +186,7 @@ body {
     justify-content: flex;
     align-items: center;
     flex-direction: column;
-    background: ##4e5558;
+    background: #4e5558;
     box-shadow: 0 30px 60px rgba(0,0,0,.2);
 }
 
@@ -394,9 +394,4 @@ body {
     flex: 100%;
     max-width: 100%;
   }
-}
-
-@media screen and (min-width: 1920px) {
-.responsive {
-}
 }
