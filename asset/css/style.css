@@ -173,6 +173,11 @@ img {
   text-align: center;
 }
 
+.list_footer {
+    display:inline;
+    padding: 10px;
+}
+
 /* SOCIAL ICONS  */
 
 .social-links li a i {
