@@ -38,6 +38,10 @@ body {
     text-align: center;
 }
 
+.col-lg-2 { /*får ite det att bli snyggt*/
+    padding: 0 50px 50px 50px;
+}
+
 .responsive {
     width: 100%;
     max-width: 100%;
@@ -158,8 +162,6 @@ img {
   width: 200px;
   height: 200px;
   margin: auto;
-  width: 30%;
-  height: 100%;
 }
 
 .center {   
