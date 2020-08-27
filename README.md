@@ -1,6 +1,6 @@
 # **Personal Website - rickardzetterman.com**
 
-<img src="asset/image/responsive.png" alt="ops!">
+<img src="image-readme/responsive.png" alt="ops!">
         This is my digital shopping window for recruter and stalkers :-)
         Where user can find information and been able to contact me if they have any question or want to colabiration.
         This makes the phase of contacting me easy for the user or recruter or who it whould be. 
