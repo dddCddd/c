@@ -12,16 +12,25 @@
 #### *USER STORYS
 
 *   As a recruter 
-    I want to find information about work experience and skills 
+    I want to find information about him 
     So I can compare with other ppl 
+
+*   As a recruter 
+    I want to find work experience and skills 
+    So I can compare with other ppl     
 
 *   As a recruter 
     I want to find contact details 
     So I can contact the person if i want to
 
 *   As a recruter 
-    I want see the actual work and personal information about a person
+    I want see the personal information 
     So I can get a clear picture about the person
+
+*   As a recruter 
+    I want see the actual work
+    So I can get a clear picture about the person      
+    
 
 #### *DESIGNE 
     I have tried to have a clean and minimalistisk designe throu the website. 
