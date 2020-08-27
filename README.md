@@ -30,7 +30,7 @@
 *   As a recruter 
     I want see the actual work
     So I can get a clear picture about the person      
-    
+
 
 #### *DESIGNE 
     I have tried to have a clean and minimalistisk designe throu the website. 
@@ -142,4 +142,4 @@ click [here](https://docs.github.com/en/github/creating-cloning-and-archiving-re
 Precios Ijege and Xavier from Code Intsitute Special to Precios who are my mentor and giving me good feedback and helped me on my work. 
 Xavier for helping me with the skills circles that I hade issue with figuring out how to procced. 
 My friends Jonas Karlsson and Martin Gustavsson for there support and help and I'm alway welcome there to ask question about coding.
-Also all tutorial made of people so I learn to code and create this website.
+Also all tutorial made of people so I learn to code and create this website. Special thanks to Dante from my class at code institute that correct the grammar and spelling.

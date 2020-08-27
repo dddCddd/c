@@ -16,8 +16,49 @@ As long as you use the notation with the understanding that browser support isn'
 If you are concerned about validation, your best bet is to rewrite these values to their rgba() counterparts, which enjoy cross-browser support and are recognized by Jigsaw.
 
 ## Test responsivness on Devices
-<img src="Images-readme/Test-on-devices.png" alt="OPS!">
+[Responsive-checker](https://www.responsivedesignchecker.com/)
+<img src="Images-readme/Test-on-dev.png" alt="OPS!">
 
->
+## Test on diffrent browsers 
+
+
+## Test User Stories
+
+*   As a recruter 
+    I want to find information about him 
+    So I can compare with other ppl 
+
+    * 
+
+*   As a recruter 
+    I want to find work experience and skills 
+    So I can compare with other ppl    
+
+    * In the portfolio you can see some of the website I have done, also some other experince. 
+    * I added my linkedin profile and CV for more information. 
+    * Also the website that you are on shows some skills. 
+
+*   As a recruter 
+    I want to find contact details 
+    So I can contact the person if i want to
+
+    * You find the contact information under contact.
+    * Also my linkedin are shown and can contact me throu there.
+    * In my CV are my contact information
+
+*   As a recruter 
+    I want see the personal information 
+    So I can get a clear picture about the person
+
+    * Under the about section there are some info about me and also that it shows that I have organized parties.
+    * I'm thinking of adding a youtube video about me.
+
+*   As a recruter 
+    I want see the actual work
+    So I can get a clear picture about the person  
+
+    * You can see the websites that I have done and the one you are at.
+    * Other stuff under portfolio     
+    
 
 
