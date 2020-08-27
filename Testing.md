@@ -20,6 +20,7 @@ If you are concerned about validation, your best bet is to rewrite these values 
 <img src="Images-readme/Test-on-dev.png" alt="OPS!">
 
 ## Test on diffrent browsers 
+<img src="Images-readme/Check-browser.png" alt="OPS!">
 
 
 ## Test User Stories
@@ -28,7 +29,7 @@ If you are concerned about validation, your best bet is to rewrite these values 
     I want to find information about him 
     So I can compare with other ppl 
 
-    * 
+    * I took that youtube video away, but there are som personal information about me in about section and can figure out in portfolio.
 
 *   As a recruter 
     I want to find work experience and skills 
@@ -61,4 +62,5 @@ If you are concerned about validation, your best bet is to rewrite these values 
     * Other stuff under portfolio     
     
 
+## Bugs
 
