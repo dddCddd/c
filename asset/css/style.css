@@ -27,7 +27,7 @@ body {
   max-width: 100%;
   margin: auto;
   overflow: hidden;
-  padding: 0 10%;
+  padding: 0 10% 10% 10%;
 }
 
 .container-fluid {
@@ -345,7 +345,7 @@ img {
 /*CARDS WEBSITES*/
 
 .col-sm {
-    padding: 5px 5px 5px;
+    padding: 20px 20px 5px;
 }
 
 .card-body {
