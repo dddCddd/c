@@ -153,12 +153,12 @@ click [here](https://docs.github.com/en/github/creating-cloning-and-archiving-re
 * Youtube video are made by [Pocketbeat](https://www.pocketbeat.com/) at [Stockholm Hippie Markets](http://2019.stockholmhippiemarket.se/) gig.
 * CV templates comes from [Canva](https://www.canva.com/)
 * Image of my friends comes from there photograph and a picture from a free to use [website](https://pixabay.com/)
-* Stockholm Hippie Market and Eldanse logos are made by Ylva Ek
-* SPDIF flyers are made by Mikael Eisen at his [website](https://www.bakkeriet.com/)
-* Evigheten logo i think are made by Jonas Karlsson a member at UBV.
+* Stockholm Hippie Market and Eldanse logos are made by Ylva Ek [linkedin](https://www.linkedin.com/in/ylvaviolaek/)
+* SPDIF flyers are made by Mikael Eisen at his [linkedin](https://www.bakkeriet.com/)
+* Evigheten logo i think are made by Jonas Karlsson a member at UBV. [linkedin](https://www.linkedin.com/in/jonas-karlsson-9b0a5852/)
  
 ### **Acknowledgements**
-Precious Ijege and Xavier from Code Institute Special to Precios who are my mentor and giving me good feedback and helped me on my work.
+Precious Ijege and Xavier from [Code Institute](https://codeinstitute.net/) Special to Precious who are my mentor and giving me good feedback and helped me on my work.
 Xavier for helping me with the skills circles that I had issues with figuring out how to proceed.
 My friends Jonas Karlsson and Martin Gustavsson for their support and help and I'm alway welcome there to ask questions about coding.
 Also all tutorials are made of people so I learn to code and create this website. Special thanks to Dante from my class at the code institute that corrects the grammar and spelling.
