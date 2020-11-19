@@ -1,6 +1,6 @@
 # **Personal Website - rickardzetterman.com**
  
-<img src="image-readme/responsive.png" alt="ops!">
+<img src="Images-readme/responsive.png" alt="ops!">
        This is my digital shopping window for recruiters and stalkers :-)
        Where users can find information and be able to contact me if they have any question or want to collaborate.
        This makes the phase of contacting me easy for the user or recruiter or who it would be.
@@ -32,7 +32,7 @@
    So I can get a clear picture about the person     
  
  
-#### *DESIGNE
+#### *DESIGN
    I have tried to have a clean and minimalistisk design through the website.
    I also tried to have a match CV but I need to make that over again.
 ##### *Colors
@@ -42,6 +42,7 @@
 ##### *Fonts  
            I used Oswald all through the website, I think it's clean.
 #### **Wireframe Mockups**
+I have been using Figma to do mockups
 * [Figma Desktop](https://www.figma.com/file/KxUG7SCFcFrPGcvxDUw5ch/rickardzetterman.com?node-id=0%3A1)
 * [Figma Mobile](https://www.figma.com/file/x0T8XoiwXqSrOWT2EDLsx9/Untitled)
  
@@ -95,6 +96,24 @@ The test can been watch [here](https://github.com/dddCddd/rickardzetterman/blob/
  
  
 ## **Deployment**
+
+This project was deployed to GitHub pages as follows:
+
+1. Login to GitHub and open the repository
+2. Click on Settings
+3. Scroll down to the GitHub Pages
+4. Below Source, change the drop-down selection from None to Master Branch
+5. The automatically refreshes and the site is now deployed
+
+I used only one branch for this project.
+
+##### To Make a Clone:
+
+1. Click on 'Code' in the GitHub repository menu and copy the given URL
+2. In your command prompt type 'cd' followed by the director you wish to store your repository in and press enter
+3. In your command prompt type 'git clone' followed by the URL copied in step 1
+
+
 ### **Running the project locally**
 This project was written and developed using GitPod and pushed to GitHub by using GitPod's command line functions.
  
